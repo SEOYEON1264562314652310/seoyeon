@@ -1,5 +1,3 @@
-package chap04;
-
 class Printer {
 	private int numOfPapers;
 
